@@ -1,8 +1,6 @@
-**📱 CampusConnect – Smart Doubt Sharing & Notes Exchange App**
+****📱 CampusConnect – Smart Doubt Sharing & Notes Exchange App****
 
 ***A UX Case Study & Interactive Prototype built in Figma***
-
-
 
 ---
 
@@ -12,6 +10,7 @@
 **Figma Interactive Prototype:**
 **👉 https://www.figma.com/proto/qVdsB8h1NA5AAdeGBtlMqE/UX_Project?node-id=123-617&t=2JB0Jqk1ggrAPNNY-1**
 
+---
 **📘 Project Overview**
 
 CampusConnect is a UX-focused mobile application prototype designed to help college students:
@@ -23,6 +22,8 @@ Access and upload study notes
 Collaborate through study groups
 
 The entire project is designed in Figma, demonstrating a clean, minimalistic, and student-friendly UI. The prototype includes complete user flows, interaction design, evaluation metrics, and usability assessment.
+
+---
 
 **This repository contains:**
 
@@ -36,7 +37,6 @@ The entire project is designed in Figma, demonstrating a clean, minimalistic, an
 
 🔗 Interactive prototype link**
 
-
 ---
 
 **🎯 Objective**
@@ -48,7 +48,9 @@ To build a centralized academic support platform that eliminates the dependency 
 📚 Notes Sharing
 
 👥 Study Groups
+
 ---
+
 **🧩 Key Features (UI/UX Perspective)**
 ✔️ Doubt Forum
 
@@ -77,6 +79,7 @@ Topic-based collaboration
 Sample chat interface
 
 ---
+
 **🖥️ Prototype Details**
 
 Designed entirely in Figma, the prototype includes:
@@ -102,6 +105,8 @@ Overlays
 Auto layout
 
 Screen transitions
+
+---
 
 **📊 UX Evaluation Metrics**
 
@@ -137,6 +142,8 @@ Most tasks rated “Very Easy” (0–10s)
 
 Search filters required slightly more time
 
+---
+
 **📌 Results Summary**
 
 High usability & user satisfaction
@@ -149,10 +156,13 @@ Search & filter section needs minor improvements
 
 Overall, the design performed strongly and validated the usability of CampusConnect.
 
-**📚 Documentation
-**
+---
+
+**📚 Documentation**
 Full UX report (PDF) is included in the repository:
 📎 UX_project_report.pdf
+
+---
 
 ***👩‍💻 Team Members***
 
@@ -166,6 +176,8 @@ Full UX report (PDF) is included in the repository:
 
 Amrita School of Computing,
 Amrita Vishwa Vidyapeetham, Bengaluru, India.
+
+---
 
 **🏁 Conclusion**
 CampusConnect successfully demonstrates a practical and intuitive UX design for an academic support application. With strong usability results and a well-structured user flow, the prototype serves as a solid foundation for future development into a fully functional application.
